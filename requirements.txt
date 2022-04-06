@@ -1,0 +1,7 @@
+elasticsearch
+scikit-learn
+pandas
+pyarrow
+pyinstaller
+tensorflow
+numpy==1.19

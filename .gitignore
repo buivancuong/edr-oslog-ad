@@ -1,0 +1,7 @@
+.vscode/
+.idea
+dist/
+build/
+*.spec
+__pycache__/
+cmake-build-debug/

@@ -1,0 +1,11 @@
+{
+    "elastic": {
+        "addr": "http://localhost:8686",
+        "linux": "os_linux_systemlog",
+        "windows": "os_windows_systemlog"
+    },
+    "purpose": {
+        "train": "",
+        "forecast": ""
+    }
+}
